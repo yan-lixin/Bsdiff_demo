@@ -125,6 +125,6 @@ make: *** [bspatch] Error 1
 
 3. 生成差分包：
 ```
-bsdiff oldfile newfile patchfile
+./bsdiff oldfile newfile patchfile
 ```
 
